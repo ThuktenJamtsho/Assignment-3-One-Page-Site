@@ -14,7 +14,7 @@ Increase awareness about Aboriginal heritage in Canberra.
 - Encourage respect and responsible engagement with these sites.
 
 # WEB PAGE DESIGN
-In this design, I have created a simple, one-page website.
+In this design, I have created a simple, one-page website.jquery and bootstrap
 
 # CONTENT
 - Assets Folder
@@ -26,3 +26,8 @@ In this design, I have created a simple, one-page website.
 
 
 # ACKNOWLEDGEMENT
+I would like to express my sincere appreciation and gratitude to my dedicated lecturer, Mr. Riley Post, for the Programming Design class. Mr. Post's unwavering support and guidance have been instrumental in my journey to learn the basics of programming and design. This was my first introduction to programming, and I had no prior knowledge of the subject when the course began.
+
+As the course progressed, Mr. Post's clear explanations, engaging teaching style, and willingness to address questions and concerns proved to be invaluable. His dedication to fostering a creative and collaborative learning environment inspired me to push my boundaries and kindled my interest in exploring this field further.
+
+I am genuinely thankful for the knowledge and skills I've gained under his guidance.
