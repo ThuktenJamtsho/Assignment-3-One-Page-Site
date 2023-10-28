@@ -1,6 +1,6 @@
 # ONE PAGE SITE
 # BY U3166730
-Welcome to the "Aboriginal Places in Canberra" one-page website! This project is dedicated to shedding light on the rich cultural heritage of the Canberra region's Aboriginal communities. By exploring this site, you will embark on a journey to discover and appreciate the significance of various Aboriginal sites in this area. 
+Welcome to the "Aboriginal Places in Canberra" one-page websit. This project is dedicated to shedding light on the rich cultural heritage of the Canberra region's Aboriginal communities. By exploring this site, you will embark on a journey to discover and appreciate the significance of various Aboriginal sites in this area. 
 
 # TOPIC
 From the examples provided, the best option for me was "Abroginal Places in ACT". Since this topic was an opportunity for me to learn more about the abroginal history and cultural heritage sites in Canberra.
@@ -14,7 +14,7 @@ Increase awareness about Aboriginal heritage in Canberra.
 - Encourage respect and responsible engagement with these sites.
 
 # WEB PAGE DESIGN
-In this design, I have created a simple, one-page website.jquery and bootstrap
+In this design, I have created a simple, one-page website. I have used few additional libraries from jquery and bootstrap.
 
 # CONTENT
 - Assets Folder
