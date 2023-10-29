@@ -16,6 +16,30 @@ Increase awareness about Aboriginal heritage in Canberra.
 # WEB PAGE DESIGN
 In this design, I have created a simple, one-page website. I got carried away using code from open-source libraries like jQuery and Bootstrap. Looking back at the assignment question, I realized my mistake, but it was too late to rectify it.
 
+# Comments on each section
+# Heading and Nav bar
+Both the heading and the nav bar turned out quite nice with the only issue being the nav bar doesnot blend as well as I would like with the rest of the page.
+
+# Section 1 
+These sections were designed to be simple banner or hearo sections, and here I used video background for better effects. 
+They are meant as an introduction and conclusion to the project, tying the page together and being key informational sections.
+
+# Section 2
+In these sections, I created horizontal timeline design using CSS and HTML.
+Leading to BACKGROUND & TIMELINE of ACTs
+
+# Section 3 & 4 & 6
+These sections have background color and effective information design with images.
+Scarred trees in the ACT, stone artifact scatters in the ACT, and ROCK SHELTERS AND ROCK ART SITES
+
+# Section 5
+Image Parrallex is used in these sections using inline CSS and info-para with images.
+Information about GRINDING GROOVES AND GROUND STONE IMPLEMENTS & STONE ARRANGEMENTS 
+
+# Section 7 & 8
+In these sections, it has background color with effective information design and an image.
+Information about ABORIGINAL QUARRY SITES & MAP
+
 # CONTENT
 - Assets Folder
 - CSS folder
