@@ -274,6 +274,18 @@
 			</div><!-- End / footer -->
 			
 		</div>
-			<script type="text/javascript" src="assets/js/main.js"></script>
+		<script>
+			var video = document.getElementById("myVideo");
+   var btn = document.getElementById("myBtn");
+   function myFunction() {
+   if (video.paused) {
+	video.play();
+	btn.innerHTML = "Pause";
+	    } else {
+	   video.pause();
+	   btn.innerHTML = "Play";
+	 }
+   }
+		</script>
 	</body>
 </html>
