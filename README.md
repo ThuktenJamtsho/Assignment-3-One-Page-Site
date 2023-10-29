@@ -14,7 +14,7 @@ Increase awareness about Aboriginal heritage in Canberra.
 - Encourage respect and responsible engagement with these sites.
 
 # WEB PAGE DESIGN
-In this design, I have created a simple, one-page website. I have used few additional libraries from jquery and bootstrap.
+In this design, I have created a simple, one-page website. I got carried away using code from open-source libraries like jQuery and Bootstrap. Looking back at the assignment question, I realized my mistake, but it was too late to rectify it.
 
 # CONTENT
 - Assets Folder
