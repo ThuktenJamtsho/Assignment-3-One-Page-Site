@@ -1,4 +1,4 @@
-	<script>
+
 var video = document.getElementById("myVideo");
    var btn = document.getElementById("myBtn");
    function myFunction() {
@@ -10,4 +10,4 @@ var video = document.getElementById("myVideo");
 	   btn.innerHTML = "Play";
 	 }
    }
-</script>		
+		
