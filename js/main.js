@@ -1,4 +1,5 @@
-  var video = document.getElementById("myVideo");
+	<script>
+var video = document.getElementById("myVideo");
    var btn = document.getElementById("myBtn");
    function myFunction() {
    if (video.paused) {
@@ -9,4 +10,4 @@
 	   btn.innerHTML = "Play";
 	 }
    }
-			
+</script>		
