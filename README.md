@@ -14,7 +14,9 @@ Increase awareness about Aboriginal heritage in Canberra.
 - Encourage respect and responsible engagement with these sites.
 
 # WEB PAGE DESIGN
-In this design, I have created a simple, one-page website. I got carried away using code from open-source libraries like jQuery and Bootstrap. Looking back at the assignment question, I realized my mistake, but it was too late to rectify it.
+In this design, I have created a simple, one-page website. I decided to split the assignment into sections, with the assumption of focusing on 8 different aspects of the ACT. This approach allowed me to present the information in various interesting and unique ways.
+
+The next step in the design process was to determine the key themes, which included decisions on color, style, and design.
 
 # Comments on each section
 # Heading and Nav bar
