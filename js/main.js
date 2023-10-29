@@ -4,31 +4,6 @@
 "use strict";
 
 	
-
-	/**
-   * [isMobile description]
-   * @type {Object}
-   */
-	window.isMobile = {
-		Android: function Android() {
-			return navigator.userAgent.match(/Android/i);
-		},
-		BlackBerry: function BlackBerry() {
-			return navigator.userAgent.match(/BlackBerry/i);
-		},
-		iOS: function iOS() {
-			return navigator.userAgent.match(/iPhone|iPad|iPod/i);
-		},
-		Opera: function Opera() {
-			return navigator.userAgent.match(/Opera Mini/i);
-		},
-		Windows: function Windows() {
-			return navigator.userAgent.match(/IEMobile/i);
-		},
-		any: function any() {
-			return isMobile.Android() || isMobile.BlackBerry() || isMobile.iOS() || isMobile.Opera() || isMobile.Windows();
-		}
-	};
 	window.isIE = /(MSIE|Trident\/|Edge\/)/i.test(navigator.userAgent);
 	window.windowHeight = window.innerHeight;
 	window.windowWidth = window.innerWidth;
@@ -200,21 +175,7 @@
 		self.aweTabs(options);
 	});
 
-	$('.video .popup-video').magnificPopup({
-		disableOn: 700,
-		type: 'iframe',
-		preloader: false,
-		closeOnContentClick: true,
-		closeBtnInside: true,
-		fixedContentPos: true,
-		closeMarkup: '<button title="%title%" type="button" class="mfp-close"><i class="pe-7s-close"></i></button>',
-
-		removalDelay: 500, //delay removal by X to allow out-animation
-		callbacks: {
-			beforeOpen: function beforeOpen() {
-				this.st.mainClass = this.st.el.attr('data-effect');
-			}
-		},
+	
 		midClick: true // allow opening popup on middle mouse click. Always set it to true if you don't provide alternative source.
 	});
 	/**
